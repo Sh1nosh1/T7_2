@@ -1,8 +1,0 @@
-D:\ОАиП\T7_2\bin\Debug\T7_2.exe.config
-D:\ОАиП\T7_2\bin\Debug\T7_2.exe
-D:\ОАиП\T7_2\bin\Debug\T7_2.pdb
-D:\ОАиП\T7_2\obj\Debug\T7_2.csproj.AssemblyReference.cache
-D:\ОАиП\T7_2\obj\Debug\T7_2.csproj.SuggestedBindingRedirects.cache
-D:\ОАиП\T7_2\obj\Debug\T7_2.csproj.CoreCompileInputs.cache
-D:\ОАиП\T7_2\obj\Debug\T7_2.exe
-D:\ОАиП\T7_2\obj\Debug\T7_2.pdb
